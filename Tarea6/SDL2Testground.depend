@@ -1,0 +1,1857 @@
+# depslib dependency file v1.0
+1379092169 source:/home/george/Programming/SDLBasic/cleanup.cpp
+	"game.h"
+
+1379093304 /home/george/Programming/SDLBasic/game.h
+	"includes.h"
+
+1379093287 /home/george/Programming/SDLBasic/includes.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+
+1402945390 /usr/include/SDL2/SDL.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_config.h
+	"SDL_platform.h"
+
+1402945390 /usr/include/SDL2/SDL_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/begin_code.h
+
+1402945390 /usr/include/SDL2/close_code.h
+
+1403026806 /usr/include/stdio.h
+	<features.h>
+	<stddef.h>
+	<bits/types.h>
+	<libio.h>
+	<stdarg.h>
+	<bits/stdio_lim.h>
+	<bits/sys_errlist.h>
+	<getopt.h>
+	<bits/stdio.h>
+	<bits/stdio2.h>
+	<bits/stdio-ldbl.h>
+
+1403026793 /usr/include/features.h
+	<stdc-predef.h>
+	<sys/cdefs.h>
+	<gnu/stubs.h>
+
+1403026793 /usr/include/stdc-predef.h
+
+1403026806 /usr/include/libio.h
+	<_G_config.h>
+	<stdarg.h>
+	<sys/cdefs.h>
+	<bits/stdio-lock.h>
+	<shlib-compat.h>
+	<bits/libio-ldbl.h>
+
+1403026806 /usr/include/_G_config.h
+	<bits/types.h>
+	<stddef.h>
+	<wchar.h>
+	<gconv.h>
+
+1403026807 /usr/include/wchar.h
+	<features.h>
+	<stdio.h>
+	<stdarg.h>
+	<bits/wchar.h>
+	<stddef.h>
+	<wctype.h>
+	<xlocale.h>
+	<xlocale.h>
+	<xlocale.h>
+	<wctype.h>
+	<bits/wchar2.h>
+	<bits/wchar-ldbl.h>
+
+1403026812 /usr/include/wctype.h
+	<features.h>
+	<bits/types.h>
+	<wchar.h>
+	<endian.h>
+	<xlocale.h>
+
+1403026807 /usr/include/endian.h
+	<features.h>
+	<bits/endian.h>
+	<bits/byteswap.h>
+
+1403026794 /usr/include/xlocale.h
+
+1403026793 /usr/include/gconv.h
+	<features.h>
+	<wchar.h>
+	<stddef.h>
+
+1403026809 /usr/include/getopt.h
+	<ctype.h>
+
+1403026800 /usr/include/ctype.h
+	<features.h>
+	<bits/types.h>
+	<endian.h>
+	<xlocale.h>
+
+1403026805 /usr/include/stdlib.h
+	<features.h>
+	<stddef.h>
+	<bits/waitflags.h>
+	<bits/waitstatus.h>
+	<xlocale.h>
+	<sys/types.h>
+	<alloca.h>
+	<bits/stdlib-bsearch.h>
+	<bits/stdlib-float.h>
+	<bits/stdlib.h>
+	<bits/stdlib-ldbl.h>
+
+1403026805 /usr/include/alloca.h
+	<features.h>
+	<stddef.h>
+
+1403026807 /usr/include/malloc.h
+	<features.h>
+	<stddef.h>
+	<stdio.h>
+
+1403026807 /usr/include/memory.h
+	<features.h>
+	<string.h>
+
+1403026807 /usr/include/string.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+	<bits/string.h>
+	<bits/string2.h>
+	<bits/string3.h>
+
+1403026807 /usr/include/strings.h
+	<features.h>
+	<stddef.h>
+	<xlocale.h>
+
+1403026805 /usr/include/inttypes.h
+	<features.h>
+	<stdint.h>
+	<stddef.h>
+
+1403026805 /usr/include/stdint.h
+	<features.h>
+	<bits/wchar.h>
+	<bits/wordsize.h>
+
+1403026801 /usr/include/math.h
+	<features.h>
+	<bits/huge_val.h>
+	<bits/huge_valf.h>
+	<bits/huge_vall.h>
+	<bits/inf.h>
+	<bits/nan.h>
+	<bits/mathdef.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathcalls.h>
+	<bits/mathinline.h>
+	<bits/math-finite.h>
+
+1403026793 /usr/include/iconv.h
+	<features.h>
+	<stddef.h>
+
+1402945390 /usr/include/SDL2/SDL_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1403026804 /usr/include/signal.h
+	<features.h>
+	<bits/sigset.h>
+	<bits/types.h>
+	<bits/signum.h>
+	<time.h>
+	<bits/siginfo.h>
+	<bits/sigaction.h>
+	<bits/sigcontext.h>
+	<stddef.h>
+	<bits/sigstack.h>
+	<sys/ucontext.h>
+	<bits/pthreadtypes.h>
+	<bits/sigthread.h>
+
+1403026808 /usr/include/time.h
+	<features.h>
+	<stddef.h>
+	<bits/time.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<bits/types.h>
+	<xlocale.h>
+
+1402945390 /usr/include/SDL2/SDL_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1402945390 /usr/include/SDL2/SDL_scancode.h
+	"SDL_stdinc.h"
+
+1402945390 /usr/include/SDL2/SDL_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1402945390 /usr/include/SDL2/SDL_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1402945390 /usr/include/SDL2/SDL_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1390210897 /usr/include/SDL2/SDL_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1379092001 source:/home/george/Programming/SDLBasic/game.cpp
+	"game.h"
+
+1379093595 source:/home/george/Programming/SDLBasic/loadcontent.cpp
+	"game.h"
+
+1374542182 source:/home/george/Programming/SDLBasic/onevent.cpp
+	"game.h"
+
+1379092129 source:/home/george/Programming/SDLBasic/oninit.cpp
+	"game.h"
+
+1374543968 source:/home/george/Programming/SDLBasic/onloop.cpp
+	"game.h"
+
+1379093730 source:/home/george/Programming/SDLBasic/onrender.cpp
+	"game.h"
+
+1379092169 source:/home/turupawn/Downloads/SDLBasic/cleanup.cpp
+	"game.h"
+
+1379093304 /home/turupawn/Downloads/SDLBasic/game.h
+	"includes.h"
+
+1379093287 /home/turupawn/Downloads/SDLBasic/includes.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+
+1402945390 /usr/include/SDL2/SDL_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1405655606 source:/home/turupawn/Downloads/SDLBasic/game.cpp
+	"game.h"
+
+1405655032 source:/home/turupawn/Downloads/SDLBasic/loadcontent.cpp
+	"game.h"
+
+1374542182 source:/home/turupawn/Downloads/SDLBasic/onevent.cpp
+	"game.h"
+
+1379092129 source:/home/turupawn/Downloads/SDLBasic/oninit.cpp
+	"game.h"
+
+1374543968 source:/home/turupawn/Downloads/SDLBasic/onloop.cpp
+	"game.h"
+
+1379093730 source:/home/turupawn/Downloads/SDLBasic/onrender.cpp
+	"game.h"
+
+1405657832 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/SDL2Testground/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+
+1412908265 source:/home/turupawn/Projects/Codeblocks/Clases/Progra3/SDLTest/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+
+1412908380 source:/home/turupawn/Downloads/SDL2TestSimple-master/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+
+1457111252 source:/home/turupawn/Clases/Progra3DragonFighter/main.cpp
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1457109312 source:/home/turupawn/Clases/Progra3DragonFighter/Character.cpp
+	"Character.h"
+
+1457109326 /home/turupawn/Clases/Progra3DragonFighter/Character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1456506121 /home/turupawn/Clases/Progra3DragonFighter/Move.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1457111974 /home/turupawn/Clases/Progra3DragonFighter/Sprite.h
+	<SDL2/SDL.h>
+	<SDL2/SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1456507743 source:/home/turupawn/Clases/Progra3DragonFighter/Hitbox.cpp
+	"Hitbox.h"
+
+1456507755 /home/turupawn/Clases/Progra3DragonFighter/Hitbox.h
+	<SDL2/SDL.h>
+
+1456506107 source:/home/turupawn/Clases/Progra3DragonFighter/Move.cpp
+	"Move.h"
+
+1457111162 source:/home/turupawn/Clases/Progra3DragonFighter/Sprite.cpp
+	"Sprite.h"
+
+1455897771 source:/home/turupawn/Clases/Progra3DragonFighter/Button.cpp
+	"Button.h"
+
+1455897884 /home/turupawn/Clases/Progra3DragonFighter/Button.h
+
+1455897725 source:/home/turupawn/Clases/Progra3DragonFighter/DeviceButton.cpp
+	"DeviceButton.h"
+
+1455897891 /home/turupawn/Clases/Progra3DragonFighter/DeviceButton.h
+
+1456506963 source:/home/turupawn/Clases/Progra3DragonFighter/InputManager.cpp
+	"InputManager.h"
+
+1456506873 /home/turupawn/Clases/Progra3DragonFighter/InputManager.h
+	<SDL2/SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1457112068 /home/turupawn/Clases/Progra3DragonFighter/Utility.h
+	<SDL2/SDL.h>
+	"Hitbox.h"
+
+1457111544 source:/home/turupawn/Clases/Progra3DragonFighter/Utility.cpp
+	"Utility.h"
+
+1457104908 source:c:\users\luis alvarez\downloads\fighterdragon-master\button.cpp
+	"Button.h"
+
+1457104908 c:\users\luis alvarez\downloads\fighterdragon-master\button.h
+
+1457104908 source:c:\users\luis alvarez\downloads\fighterdragon-master\character.cpp
+	"Character.h"
+
+1457104908 c:\users\luis alvarez\downloads\fighterdragon-master\character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1457668150 c:\users\luis alvarez\downloads\fighterdragon-master\move.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1457668160 c:\users\luis alvarez\downloads\fighterdragon-master\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1457668387 c:\users\luis alvarez\downloads\fighterdragon-master\hitbox.h
+	<SDL.h>
+
+1457668387 c:\users\luis alvarez\downloads\fighterdragon-master\utility.h
+	<SDL.h>
+	"Hitbox.h"
+
+1457668185 c:\users\luis alvarez\downloads\fighterdragon-master\inputmanager.h
+	<SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1457104908 c:\users\luis alvarez\downloads\fighterdragon-master\devicebutton.h
+
+1457104908 source:c:\users\luis alvarez\downloads\fighterdragon-master\devicebutton.cpp
+	"DeviceButton.h"
+
+1457104908 source:c:\users\luis alvarez\downloads\fighterdragon-master\hitbox.cpp
+	"Hitbox.h"
+
+1457104908 source:c:\users\luis alvarez\downloads\fighterdragon-master\inputmanager.cpp
+	"InputManager.h"
+
+1457703673 source:c:\users\luis alvarez\downloads\fighterdragon-master\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1457104908 source:c:\users\luis alvarez\downloads\fighterdragon-master\move.cpp
+	"Move.h"
+
+1457700014 source:c:\users\luis alvarez\downloads\fighterdragon-master\sprite.cpp
+	"Sprite.h"
+
+1457668782 source:c:\users\luis alvarez\downloads\fighterdragon-master\utility.cpp
+	"Utility.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\button.cpp
+	"Button.h"
+
+1457104908 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\button.h
+
+1458273159 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\character.cpp
+	"Character.h"
+
+1458268834 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1457668150 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\move.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1457668160 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1457668387 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\hitbox.h
+	<SDL.h>
+
+1457668387 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\utility.h
+	<SDL.h>
+	"Hitbox.h"
+
+1457668185 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\inputmanager.h
+	<SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1457104908 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\devicebutton.h
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\devicebutton.cpp
+	"DeviceButton.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\hitbox.cpp
+	"Hitbox.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\inputmanager.cpp
+	"InputManager.h"
+
+1458278647 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\move.cpp
+	"Move.h"
+
+1457700014 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\sprite.cpp
+	"Sprite.h"
+
+1457668782 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\utility.cpp
+	"Utility.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\begin_code.h
+
+1451764693 c:\mingw_dev_lib\include\sdl2\close_code.h
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 c:\mingw_dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451800373 c:\users\luis alvarez\documents\sdl2_image-2.0.1\i686-w64-mingw32\include\sdl2\sdl_image.h
+	"SDL.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1458271639 source:c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\evaluar.cpp
+	"Evaluar.h"
+
+1458272757 c:\users\luis alvarez\documents\github\tarea5\fighterdragon-luis\evaluar.h
+	"Character.h"
+
+1451801791 c:\users\luis alvarez\documents\sdl2_mixer-2.0.1\i686-w64-mingw32\include\sdl2\sdl_mixer.h
+	"SDL_stdinc.h"
+	"SDL_rwops.h"
+	"SDL_audio.h"
+	"SDL_endian.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\button.cpp
+	"Button.h"
+
+1457104908 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\button.h
+
+1458273159 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\character.cpp
+	"Character.h"
+
+1458268834 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1457668150 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\move.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1457668160 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1457668387 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\hitbox.h
+	<SDL.h>
+
+1457668387 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\utility.h
+	<SDL.h>
+	"Hitbox.h"
+
+1457668185 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\inputmanager.h
+	<SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1457104908 c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\devicebutton.h
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\devicebutton.cpp
+	"DeviceButton.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\hitbox.cpp
+	"Hitbox.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\inputmanager.cpp
+	"InputManager.h"
+
+1458308040 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1457104908 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\move.cpp
+	"Move.h"
+
+1457700014 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\sprite.cpp
+	"Sprite.h"
+
+1457668782 source:c:\users\luis alvarez\documents\github\tarea6\fighterdragon-luis\utility.cpp
+	"Utility.h"
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\button.cpp
+	"Button.h"
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\button.h
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\character.cpp
+	"Character.h"
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\move.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\hitbox.h
+	<SDL.h>
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\utility.h
+	<SDL.h>
+	"Hitbox.h"
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\inputmanager.h
+	<SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1458314076 c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\devicebutton.h
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\devicebutton.cpp
+	"DeviceButton.h"
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\hitbox.cpp
+	"Hitbox.h"
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\inputmanager.cpp
+	"InputManager.h"
+
+1458322139 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\move.cpp
+	"Move.h"
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\sprite.cpp
+	"Sprite.h"
+
+1458314076 source:c:\users\usuario\downloads\tarea6-master\fighterdragon-luis\utility.cpp
+	"Utility.h"
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\button.cpp
+	"Button.h"
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\button.h
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\character.cpp
+	"Character.h"
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\move.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_assert.h"
+	"SDL_atomic.h"
+	"SDL_audio.h"
+	"SDL_clipboard.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_filesystem.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_haptic.h"
+	"SDL_hints.h"
+	"SDL_loadso.h"
+	"SDL_log.h"
+	"SDL_messagebox.h"
+	"SDL_mutex.h"
+	"SDL_power.h"
+	"SDL_render.h"
+	"SDL_rwops.h"
+	"SDL_system.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_version.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<math.h>
+	<float.h>
+	<iconv.h>
+	<sal.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_config.h
+	"SDL_platform.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_platform.h
+	"AvailabilityMacros.h"
+	"TargetConditionals.h"
+	<winapifamily.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\begin_code.h
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\close_code.h
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_assert.h
+	"SDL_config.h"
+	"begin_code.h"
+	<signal.h>
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_atomic.h
+	"SDL_stdinc.h"
+	"SDL_platform.h"
+	"begin_code.h"
+	<mbarrier.h>
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_atomic.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_clipboard.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	<intrin.h>
+	<intrin.h>
+	<altivec.h>
+	<mmintrin.h>
+	<mm3dnow.h>
+	<xmmintrin.h>
+	<emmintrin.h>
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_gamecontroller.h"
+	"SDL_quit.h"
+	"SDL_gesture.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_surface.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_pixels.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_rect.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_pixels.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_surface.h
+	"SDL_stdinc.h"
+	"SDL_pixels.h"
+	"SDL_rect.h"
+	"SDL_blendmode.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_blendmode.h
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keycode.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_keycode.h
+	"SDL_stdinc.h"
+	"SDL_scancode.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_scancode.h
+	"SDL_stdinc.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_gamecontroller.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_gesture.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"SDL_touch.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_touch.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_filesystem.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_haptic.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_joystick.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_hints.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_log.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_messagebox.h
+	"SDL_stdinc.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_power.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_render.h
+	"SDL_stdinc.h"
+	"SDL_rect.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_system.h
+	"SDL_stdinc.h"
+	"SDL_keyboard.h"
+	"SDL_render.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1451764693 ..\..\..\..\..\..\mingw_dev_lib\include\sdl2\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\hitbox.h
+	<SDL.h>
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\utility.h
+	<SDL.h>
+	"Hitbox.h"
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\inputmanager.h
+	<SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1458314076 c:\users\usuario\documents\fighterdragon-sergio\devicebutton.h
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\devicebutton.cpp
+	"DeviceButton.h"
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\hitbox.cpp
+	"Hitbox.h"
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\inputmanager.cpp
+	"InputManager.h"
+
+1458323638 source:c:\users\usuario\documents\fighterdragon-sergio\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\move.cpp
+	"Move.h"
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\sprite.cpp
+	"Sprite.h"
+
+1458314076 source:c:\users\usuario\documents\fighterdragon-sergio\utility.cpp
+	"Utility.h"
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\button.cpp
+	"Button.h"
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\button.h
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\character.cpp
+	"Character.h"
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\move.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\hitbox.h
+	<SDL.h>
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\utility.h
+	<SDL.h>
+	"Hitbox.h"
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\inputmanager.h
+	<SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1458314076 c:\users\usuario\documents\github\fighterdragon-sergio\devicebutton.h
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\devicebutton.cpp
+	"DeviceButton.h"
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\hitbox.cpp
+	"Hitbox.h"
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\inputmanager.cpp
+	"InputManager.h"
+
+1458323638 source:c:\users\usuario\documents\github\fighterdragon-sergio\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\move.cpp
+	"Move.h"
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\sprite.cpp
+	"Sprite.h"
+
+1458314076 source:c:\users\usuario\documents\github\fighterdragon-sergio\utility.cpp
+	"Utility.h"
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\button.cpp
+	"Button.h"
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\button.h
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\character.cpp
+	"Character.h"
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\character.h
+	<iostream>
+	<map>
+	<fstream>
+	"Move.h"
+	"InputManager.h"
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\move.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Sprite.h"
+	"Button.h"
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\sprite.h
+	<SDL.h>
+	<SDL_image.h>
+	<iostream>
+	<vector>
+	"Hitbox.h"
+	"Utility.h"
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\hitbox.h
+	<SDL.h>
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\utility.h
+	<SDL.h>
+	"Hitbox.h"
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\inputmanager.h
+	<SDL.h>
+	"Move.h"
+	"Button.h"
+	"DeviceButton.h"
+	<map>
+	<list>
+	<fstream>
+
+1458314076 c:\users\usuario\documents\pendientes\tarea6\devicebutton.h
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\devicebutton.cpp
+	"DeviceButton.h"
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\hitbox.cpp
+	"Hitbox.h"
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\inputmanager.cpp
+	"InputManager.h"
+
+1459790433 source:c:\users\usuario\documents\pendientes\tarea6\main.cpp
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<stdio.h>
+	<string>
+	<iostream>
+	<list>
+	"Character.h"
+	"Button.h"
+	"DeviceButton.h"
+	"InputManager.h"
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\move.cpp
+	"Move.h"
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\sprite.cpp
+	"Sprite.h"
+
+1458314076 source:c:\users\usuario\documents\pendientes\tarea6\utility.cpp
+	"Utility.h"
+
